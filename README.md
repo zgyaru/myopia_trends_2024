@@ -1,4 +1,4 @@
-Rise and Recovery of myopia Among School-Aged Students from 2019 to 2024: A Population-based Longitudinal Study in Wenzhou, China
+## Rise and Recovery of myopia Among School-Aged Students from 2019 to 2024: A Population-based Longitudinal Study in Wenzhou, China
 
 **Question:** What are the temporal patterns of myopia progression among school-aged students from 2019 to 2024?
 
